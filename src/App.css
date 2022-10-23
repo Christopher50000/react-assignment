@@ -1,0 +1,43 @@
+.App
+{
+  height:100vh;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  background-color: black;
+ 
+  
+  
+
+ 
+
+
+ 
+
+
+
+  
+
+
+}
+
+
+
+.Middle
+{
+ 
+  display: flex;
+  flex-direction:row;
+  justify-content: space-between;
+  height: 55%;
+  
+  
+
+  
+}
+
+*
+{
+  color: green;
+}
